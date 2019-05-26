@@ -2,6 +2,8 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+echo "https://lockiee.com" > ./public/CNAME
+
 # Build the project.
 hugo -t ezhil # if using a theme, replace by `hugo -t <yourtheme>`
 
