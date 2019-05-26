@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site 1515</title>
+    <link>http://xuwuqiang.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site 1515</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 17:02:56 +0800</lastBuildDate>
+    
+	<atom:link href="http://xuwuqiang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post3</title>
+      <link>http://xuwuqiang.github.io/posts/post3/</link>
+      <pubDate>Sun, 26 May 2019 17:02:56 +0800</pubDate>
+      
+      <guid>http://xuwuqiang.github.io/posts/post3/</guid>
+      <description>post3</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://xuwuqiang.github.io/posts/post1/</link>
+      <pubDate>Sun, 26 May 2019 15:15:44 +0800</pubDate>
+      
+      <guid>http://xuwuqiang.github.io/posts/post1/</guid>
+      <description>post1 tell something.</description>
+    </item>
+    
+  </channel>
+</rss>
