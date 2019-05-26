@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>lockiee.com/posts/created-the-site/</loc>
+    <loc>https://lockiee.com/posts/created-the-site/</loc>
     <lastmod>2019-05-26T17:27:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>lockiee.com/posts/</loc>
-    <lastmod>2019-05-26T17:27:47+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>lockiee.com/</loc>
+    <loc>https://lockiee.com/posts/</loc>
     <lastmod>2019-05-26T17:27:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>lockiee.com/categories/</loc>
+    <loc>https://lockiee.com/</loc>
+    <lastmod>2019-05-26T17:27:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>lockiee.com/tags/</loc>
+    <loc>https://lockiee.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lockiee.com/tags/</loc>
     <priority>0</priority>
   </url>
   
