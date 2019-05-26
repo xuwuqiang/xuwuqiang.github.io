@@ -1,41 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site 1515</title>
-    <link>http://xuwuqiang.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site 1515</description>
+    <title>Posts on my records</title>
+    <link>lockiee.com/posts/</link>
+    <description>Recent content in Posts on my records</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2019 17:16:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2019 17:27:47 +0800</lastBuildDate>
     
-	<atom:link href="http://xuwuqiang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="lockiee.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Post4</title>
-      <link>http://xuwuqiang.github.io/posts/post4/</link>
-      <pubDate>Sun, 26 May 2019 17:16:23 +0800</pubDate>
-      
-      <guid>http://xuwuqiang.github.io/posts/post4/</guid>
-      <description>post4</description>
-    </item>
     
     <item>
-      <title>Post3</title>
-      <link>http://xuwuqiang.github.io/posts/post3/</link>
-      <pubDate>Sun, 26 May 2019 17:02:56 +0800</pubDate>
+      <title>Created the Site</title>
+      <link>lockiee.com/posts/created-the-site/</link>
+      <pubDate>Sun, 26 May 2019 17:27:47 +0800</pubDate>
       
-      <guid>http://xuwuqiang.github.io/posts/post3/</guid>
-      <description>post3</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://xuwuqiang.github.io/posts/post1/</link>
-      <pubDate>Sun, 26 May 2019 15:15:44 +0800</pubDate>
-      
-      <guid>http://xuwuqiang.github.io/posts/post1/</guid>
-      <description>post1 tell something.</description>
+      <guid>lockiee.com/posts/created-the-site/</guid>
+      <description>花了点时间创建了这个站点.. 希望能有个好的开始.. &amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..
+参考教程点击</description>
     </item>
     
   </channel>
